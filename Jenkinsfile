@@ -7,6 +7,7 @@ pipeline {
                 
                 
                 echo 'This is Radhakrishna'
+                echo 'this is my first task'
             }
         }
     }
